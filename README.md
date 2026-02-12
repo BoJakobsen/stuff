@@ -7,4 +7,4 @@
 - [Advent of Code solutions and notes](https://github.com/BoJakobsen/AoC)
 - [MD-in-a-box](https://github.com/BoJakobsen/md-in-a-box)
 
-My profesional webpage can be found on [boj.upraktisk.dk](boj.upraktisk.dk)
+My profesional webpage can be found on [boj.upraktisk.dk](https://boj.upraktisk.dk)
