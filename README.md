@@ -5,6 +5,6 @@
 - [Simpel Jupyter notebook with COVID-19 SSI Plots](https://stuff.upraktisk.dk/Corona-plot/)
 - [Kursus materiale til Python kursus for TAP-medarbejdere (RUC) 2025](https://stuff.upraktisk.dk/PythonTAP2025/)
 - [Advent of Code solutions and notes](https://github.com/BoJakobsen/AoC)
-- [MD in a Box](https://stuff.upraktisk.dk/md-in-a-box)
+- [MD in a Box](https://md-in-a-box.boj.dk)
 
-My profesional webpage can be found on [boj.upraktisk.dk](https://boj.upraktisk.dk)
+My profesional webpage can be found on [boj.dk](https://boj.dk)
