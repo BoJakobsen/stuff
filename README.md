@@ -1,10 +1,10 @@
 ## Just a simple page for some small projekts that I sometimes work on. 
 
-- [Kalaha initial move analysis](https://stuff.upraktisk.dk/kalaha-analyse/)
-- [gpplot, Matlab package for making gnuplot figures](https://stuff.upraktisk.dk/gpplot/)
-- [Simpel Jupyter notebook with COVID-19 SSI Plots](https://stuff.upraktisk.dk/Corona-plot/)
-- [Kursus materiale til Python kursus for TAP-medarbejdere (RUC) 2025](https://stuff.upraktisk.dk/PythonTAP2025/)
+- [Kalaha initial move analysis](https://boj.dk/kalaha-analyse/)
+- [gpplot, Matlab package for making gnuplot figures](https://boj.dk/gpplot/)
+- [Simpel Jupyter notebook with COVID-19 SSI Plots](https://boj.dk/Corona-plot/)
+- [Kursus materiale til Python kursus for TAP-medarbejdere (RUC) 2025](https://boj.dk/PythonTAP2025/)
 - [Advent of Code solutions and notes](https://github.com/BoJakobsen/AoC)
-- [MD in a Box](https://md-in-a-box.boj.dk)
+- [MD in a Box](https://boj.dk/md-in-a-box)
 
 My profesional webpage can be found on [boj.dk](https://boj.dk)
