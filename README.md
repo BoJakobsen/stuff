@@ -1,4 +1,4 @@
-## Just a simple page for some small projekts that I sometimes work on. 
+## A landing page for some small projects that I sometimes work on. 
 
 - [Kalaha initial move analysis](https://boj.dk/kalaha-analyse/)
 - [gpplot, Matlab package for making gnuplot figures](https://boj.dk/gpplot/)
@@ -6,5 +6,6 @@
 - [Kursus materiale til Python kursus for TAP-medarbejdere (RUC) 2025](https://boj.dk/PythonTAP2025/)
 - [Advent of Code solutions and notes](https://github.com/BoJakobsen/AoC)
 - [MD in a Box](https://boj.dk/md-in-a-box)
+- [Pynite FEM examples](https://github.com/BoJakobsen/FEM_Examples)
 
 My profesional webpage can be found on [boj.dk](https://boj.dk)
