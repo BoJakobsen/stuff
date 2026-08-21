@@ -7,6 +7,6 @@
 - [Advent of Code solutions and notes](https://github.com/BoJakobsen/AoC)
 - [MD in a Box](https://boj.dk/md-in-a-box)
 - [Pynite FEM examples](https://github.com/BoJakobsen/FEM_Examples)
-- [ULCE (Useless Lisp CPU Emulator), VM project] (https://github.com/BoJakobsen/ulce)
+- [ULCE (Useless Lisp CPU Emulator), VM project](https://github.com/BoJakobsen/ulce)
 
 My profesional webpage can be found on [boj.dk](https://boj.dk)
